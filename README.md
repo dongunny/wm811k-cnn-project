@@ -3,6 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.11.0-orange.svg)](https://pytorch.org)
 [![Accuracy](https://img.shields.io/badge/Balanced_Accuracy-92.02%25-brightgreen.svg)]()
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dongunny/wm811k-cnn-project/blob/main/WM811K_CNN_Colab.ipynb)
 
 > WM-811K 웨이퍼 맵 이미지를 활용하여 8가지 반도체 결함 패턴을 CNN으로 분류하는 프로젝트입니다.
 > **Phase 2** of the Semiconductor Process AI Pipeline (반도체 공정 AI 파이프라인)
